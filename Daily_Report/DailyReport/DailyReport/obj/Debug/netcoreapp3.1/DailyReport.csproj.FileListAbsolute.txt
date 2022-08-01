@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
