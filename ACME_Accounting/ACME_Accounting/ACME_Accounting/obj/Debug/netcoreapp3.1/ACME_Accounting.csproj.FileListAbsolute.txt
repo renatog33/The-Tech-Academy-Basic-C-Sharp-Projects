@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\bin\Debug\netcoreapp3.1\ACME_Accounting.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\ACME_Accounting\ACME_Accounting\ACME_Accounting\obj\Debug\netcoreapp3.1\ACME_Accounting.genruntimeconfig.cache
