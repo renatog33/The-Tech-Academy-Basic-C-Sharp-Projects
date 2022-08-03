@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Car_Insurance_Approval\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.genruntimeconfig.cache
