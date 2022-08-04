@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\While_Do_While\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.genruntimeconfig.cache
