@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
