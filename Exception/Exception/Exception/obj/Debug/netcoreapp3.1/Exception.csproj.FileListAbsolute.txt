@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Exception\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache
