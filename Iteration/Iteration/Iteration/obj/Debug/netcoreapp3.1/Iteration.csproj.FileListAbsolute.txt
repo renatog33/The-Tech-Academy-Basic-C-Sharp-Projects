@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
