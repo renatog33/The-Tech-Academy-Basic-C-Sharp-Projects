@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.genruntimeconfig.cache
