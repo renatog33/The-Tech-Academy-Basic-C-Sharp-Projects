@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Calling_Methods\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.genruntimeconfig.cache
