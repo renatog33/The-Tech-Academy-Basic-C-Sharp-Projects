@@ -10,15 +10,11 @@ namespace MethodClass
         {
             static void Main(string[] args)
             {
-                Console.WriteLine("Input a number:");
-                int num1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Input another number:");
-                int num2 = Convert.ToInt32(Console.ReadLine());
-
                 MathOperation Mult = new MathOperation();//In the Main() method of the console app, instantiate the class.
-                Mult.Math(num1, num2);
+                Mult.Math(num2: 10, num1: 5);//Call the method in the class, specifying the parameters by name.
+            //note that named parameters allows you to swoitch up the sequence
 
-                Console.ReadLine();
+            Console.ReadLine();
             }
         }   
 }
