@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Submission\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.genruntimeconfig.cache

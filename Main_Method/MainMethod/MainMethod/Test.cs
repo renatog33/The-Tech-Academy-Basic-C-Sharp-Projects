@@ -18,7 +18,7 @@ namespace MainMethod
             return Convert.ToInt32(input - 5);
         }
 
-        public int add(string input)//Method #2
+        public int add(string input)//Method #3
         {
             return Convert.ToInt32(input) * 10;
         }
