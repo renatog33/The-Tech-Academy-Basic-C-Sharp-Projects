@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.genruntimeconfig.cache
