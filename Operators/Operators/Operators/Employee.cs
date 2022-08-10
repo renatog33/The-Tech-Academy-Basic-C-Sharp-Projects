@@ -18,7 +18,6 @@ namespace Operators
             bool compare = (object1.Id == object2.Id);
             return compare;
         }
-        //have to include the overload of "!=" to continue on and use what we created for "=="
         public static bool operator !=(Employee object1, Employee object2)//#2Remember that comparison operators must be overloaded in pairs
         {
             bool compare = (object1.Id != object2.Id);
