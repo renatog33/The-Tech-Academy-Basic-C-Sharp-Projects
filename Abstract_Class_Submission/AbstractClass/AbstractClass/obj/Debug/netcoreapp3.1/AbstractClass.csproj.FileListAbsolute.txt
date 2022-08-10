@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Submission\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache
