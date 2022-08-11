@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.genruntimeconfig.cache
