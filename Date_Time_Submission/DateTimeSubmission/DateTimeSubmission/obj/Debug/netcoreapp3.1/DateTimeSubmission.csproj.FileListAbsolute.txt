@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Date_Time_Submission\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.genruntimeconfig.cache
