@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\bin\Debug\netcoreapp3.1\TryCatchAssignment.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Try_Catch_Assignment\TryCatchAssignment\TryCatchAssignment\obj\Debug\netcoreapp3.1\TryCatchAssignment.genruntimeconfig.cache
