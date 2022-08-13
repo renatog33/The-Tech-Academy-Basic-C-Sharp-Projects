@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_Submission\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.genruntimeconfig.cache
