@@ -1,0 +1,14 @@
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.exe
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.deps.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.dev.json
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfo.cs
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Act-On Giveaway\Desktop\C-Sharp\The-Tech-Academy-Basic-C-Sharp-Projects\Input\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.genruntimeconfig.cache
