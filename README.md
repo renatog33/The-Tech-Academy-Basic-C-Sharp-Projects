@@ -3,8 +3,8 @@
 These are some projects and I made using C3 and .NET Framwork.
 ## Projects:
 ***
-- [Car Insurance] [iq]
-- [Twenty One] [21]
+- [Car Insurance][iq]
+- [Twenty One][21]
 
 ### Car Insurance
 This project is anMVC web application that mimis a car insurance website.  It takes a user's input on policy information and calculates a quote based onbusiness logic.  There is also an admin page that allows staff to view all of the quotes that have been generated.
