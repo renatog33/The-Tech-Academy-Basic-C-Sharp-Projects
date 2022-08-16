@@ -1,6 +1,6 @@
 # C# Projects
 ***
-These are some projects and I made using C3 and .NET Framwork.
+These are some projects I made using C# and .NET Framework.
 ## Projects:
 ***
 - [Car Insurance][iq]
