@@ -4,10 +4,10 @@ These are some projects and I made using C3 and .NET Framwork.
 ## Projects:
 ***
 - [Car Insurance][iq]
-- [Twenty One][21]
+- [Twenty-One][21]
 
 ### Car Insurance
-This project is anMVC web application that mimis a car insurance website.  It takes a user's input on policy information and calculates a quote based onbusiness logic.  There is also an admin page that allows staff to view all of the quotes that have been generated.
+This project is an MVC web application that mimics a car insurance website.  It takes a user's input on policy information and calculates a quote based on business logic.  There is also an admin page that allows staff to view all of the quotes that have been generated.
 
 ### Twenty One
 This project was to create the game of Blackjack ("21") as a console application. The program understands the rules of the game and has components of exception handling.
