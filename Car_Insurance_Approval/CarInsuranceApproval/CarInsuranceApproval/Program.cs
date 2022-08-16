@@ -18,6 +18,7 @@ namespace CarInsuranceApproval
             Console.WriteLine("Qualified");//Determine if person is qualified
             bool qualified = (age > 15 && dui == false && tickets <=3);//use boolean operators to determin approval eligibility
             Console.WriteLine(qualified);
+            Console.ReadLine;
         }
     }
 }
